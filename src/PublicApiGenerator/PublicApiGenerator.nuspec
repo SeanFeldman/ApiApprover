@@ -21,7 +21,7 @@
       - Custom attributes are properly taken into account for set methods
     </releaseNotes>
     <dependencies>
-      <dependency id="Mono.Cecil" version="0.9.6.4" />
+      <dependency id="Mono.Cecil" version="0.10.0-beta1-v2" />
     </dependencies>
   </metadata>
   <files>
